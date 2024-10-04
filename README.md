@@ -1,4 +1,4 @@
-##Title: Street View Housing Number Digit Recognition**
+##Title: Street View Housing Number Digit Recognition.
 ##Objective:
 The objective of this project is to develop a Convolutional Neural Network (CNN) model capable of accurately recognizing digits from street view images. The model will be trained on the SVHN dataset, which consists of cropped images of house numbers from Google Street View.
 Description:
